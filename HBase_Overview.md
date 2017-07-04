@@ -53,8 +53,27 @@ In Short view of defination of HBase , we can say
 * Row is a collection of column families.
 * Column family is a collection of columns.
 * Column is a collection of key value pairs.
-![hbase]()
+
+
+![hbase](https://github.com/maniram-yadav/HBase/blob/master/images/HBase-column-families.png)
 
 
 
 ### Difference between RDBMS and DBMS
+
+![difference between dbms rdbms](https://github.com/maniram-yadav/HBase/blob/master/images/hbaserdbms.png)
+
+
+### Application of HBase
+
+
+* HBase is used whenever we need to provide fast random access to available data.
+
+* It is used whenever there is a need to write heavy applications.
+
+* Companies such as Facebook, Twitter, Yahoo, and Adobe use HBase internally. [Read More ]()
+
+
+## [:arrow_left:Previous]() :point_left:____________________________ :point_right:        [Next :arrow_right:]()
+
+_____________________________ :door: [Home](https://github.com/maniram-yadav/HBase) :door: _____________________________
