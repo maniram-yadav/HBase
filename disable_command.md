@@ -17,7 +17,7 @@ In HBase before deleting any table we must have to disable to that table.
 
 #### drop command
 
-After disbaling we can drop table by using command :point_right:
+After disbaling we can drop table by using command :point_down:
 
 
 ```
@@ -36,6 +36,7 @@ It will list all the tables which exists. The table which has been deleted will 
 #### drop_all command
  
 **_drop_all_** command is used to delete multiple table by using regx expression.
+
 **_Example_** :point_down:
  
 ```
