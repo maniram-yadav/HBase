@@ -34,6 +34,7 @@ alter '<table name>',NAME=>'<column family name>'
 
 **Number of cells per column family**
  
+ You can add maximum number of cells per column family. By using below given query..
  Query format :point_down:
  
  ```
