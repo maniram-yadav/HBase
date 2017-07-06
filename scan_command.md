@@ -1,4 +1,4 @@
-## [:arrow_left:Previous]() :point_left:____________________________ :point_right:        [Next :arrow_right:]()
+## [:arrow_left:Previous](https://github.com/maniram-yadav/HBase/blob/master/DML_command.md) :point_left:____________________________ :point_right:        [Next :arrow_right:](https://github.com/maniram-yadav/HBase/blob/master/count_command.md)
 
 _____________________________ :door: [Home](https://github.com/maniram-yadav/HBase) :door: _____________________________
 
@@ -23,6 +23,6 @@ _____________________________ :door: [Home](https://github.com/maniram-yadav/HBa
  by HBase. In above example the value of primary key is *row1*.
  
  
-## [:arrow_left:Previous]() :point_left:____________________________ :point_right:        [Next :arrow_right:]()
+## [:arrow_left:Previous](https://github.com/maniram-yadav/HBase/blob/master/DML_command.md) :point_left:____________________________ :point_right:        [Next :arrow_right:](https://github.com/maniram-yadav/HBase/blob/master/count_command.md)
 
 _____________________________ :door: [Home](https://github.com/maniram-yadav/HBase) :door: _____________________________
