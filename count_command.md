@@ -1,4 +1,4 @@
-## [:arrow_left:Previous]() :point_left:____________________________ :point_right:        [Next :arrow_right:]()
+## [:arrow_left:Previous](https://github.com/maniram-yadav/HBase/blob/master/scan_command.md) :point_left:____________________________ 
 
 _____________________________ :door: [Home](https://github.com/maniram-yadav/HBase) :door: _____________________________
 
@@ -19,6 +19,6 @@ Query Format :point_down:
 
 
 
-## [:arrow_left:Previous]() :point_left:____________________________ :point_right:        [Next :arrow_right:]()
+## [:arrow_left:Previous](https://github.com/maniram-yadav/HBase/blob/master/scan_command.md) :point_left:___________________________
 
 _____________________________ :door: [Home](https://github.com/maniram-yadav/HBase) :door: _____________________________
