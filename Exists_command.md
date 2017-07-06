@@ -1,4 +1,4 @@
-## [:arrow_left:Previous]() :point_left:____________________________ :point_right:        [Next :arrow_right:]()
+## [:arrow_left:Previous](https://github.com/maniram-yadav/HBase/blob/master/HBase_Create_Table.md) :point_left:____________________________ :point_right:        [Next :arrow_right:](https://github.com/maniram-yadav/HBase/blob/master/DescribeAlter_Command.md)
 
 _____________________________ :door: [Home](https://github.com/maniram-yadav/HBase) :door: _____________________________
 
@@ -17,6 +17,6 @@ exists '<table name>'
 
 ![exists command](https://github.com/maniram-yadav/HBase/blob/master/images/exists.png)
 
-## [:arrow_left:Previous]() :point_left:____________________________ :point_right:        [Next :arrow_right:]()
+## [:arrow_left:Previous](https://github.com/maniram-yadav/HBase/blob/master/HBase_Create_Table.md) :point_left:____________________________ :point_right:        [Next :arrow_right:](https://github.com/maniram-yadav/HBase/blob/master/DescribeAlter_Command.md)
 
 _____________________________ :door: [Home](https://github.com/maniram-yadav/HBase) :door: _____________________________
