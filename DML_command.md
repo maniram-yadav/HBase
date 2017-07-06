@@ -5,7 +5,8 @@ _____________________________ :door: [Home](https://github.com/maniram-yadav/HBa
 
 ### DML Command
   **DML** stands for Data Manipulation Language. These commands are used for storing , retreiving , updating and other operation related to data manipulation which has been stored in the table.
-  
+ > ___________________________________________________________________________________________
+
 ##### put
  **put** command is used for storing the data in the table.
  
@@ -18,7 +19,8 @@ _____________________________ :door: [Home](https://github.com/maniram-yadav/HBa
  **Example :point_down:**
  ![put command](https://github.com/maniram-yadav/HBase/blob/master/images/put.png)
  
- 
+> ___________________________________________________________________________________________
+
 ##### get
 
 **get** command is used for retreive data from the table.
@@ -54,7 +56,8 @@ _____________________________ :door: [Home](https://github.com/maniram-yadav/HBa
 In above example we have fetched data of the row which have id **row1** and column family name is **programmer**.
 
 
-> ________________
+> ___________________________________________________________________________________________
+
 
 ###### data updation
 Ther is not any update command in the HBase. For updating the value we overwrite the data by using **_put_** command. 
@@ -71,7 +74,7 @@ Query Format :point_down:
  ![put command](https://github.com/maniram-yadav/HBase/blob/master/images/update.png)
 
 
-> ______________________________________
+> ___________________________________________________________________________________________
 
 ##### data deletion
 
