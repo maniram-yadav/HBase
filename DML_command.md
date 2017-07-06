@@ -3,6 +3,8 @@
 _____________________________ :door: [Home](https://github.com/maniram-yadav/HBase) :door: _____________________________
 
 
+> _______________________________________________________________________________________
+
 ### DML Command
   **DML** stands for Data Manipulation Language. These commands are used for storing , retreiving , updating and other operation related to data manipulation which has been stored in the table.
  > ___________________________________________________________________________________________
@@ -104,6 +106,8 @@ Query Format :point_down:
 
  ![deleteall command](https://github.com/maniram-yadav/HBase/blob/master/images/deleteall.png)
 
+
+> _______________________________________________________________________________________
 
 
 ## [:arrow_left:Previous]() :point_left:____________________________ :point_right:        [Next :arrow_right:]()
