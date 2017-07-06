@@ -1,4 +1,4 @@
-## [:arrow_left:Previous]() :point_left:____________________________ :point_right:        [Next :arrow_right:]()
+## [:arrow_left:Previous](https://github.com/maniram-yadav/HBase/blob/master/DescribeAlter_Command.md) :point_left:____________________________ :point_right:        [Next :arrow_right:](https://github.com/maniram-yadav/HBase/blob/master/enable_command.md)
 
 _____________________________ :door: [Home](https://github.com/maniram-yadav/HBase) :door: _____________________________
 
@@ -55,6 +55,6 @@ If following are the tables exists in HBase cluster
 Then first three table which name starts from *emp* i.e. **employee**, **employer** and **employeeprofile** will be delated by above given *drop_all* command.
  
  
-## [:arrow_left:Previous]() :point_left:____________________________ :point_right:        [Next :arrow_right:]()
+## [:arrow_left:Previous](https://github.com/maniram-yadav/HBase/blob/master/DescribeAlter_Command.md) :point_left:____________________________ :point_right:        [Next :arrow_right:](https://github.com/maniram-yadav/HBase/blob/master/enable_command.md)
 
 _____________________________ :door: [Home](https://github.com/maniram-yadav/HBase) :door: _____________________________
